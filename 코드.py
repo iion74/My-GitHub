@@ -24,9 +24,9 @@ if __name__ == '__main__':
     ''' Construct the following tree
                   A
                 /   \
-              B       C
+              B       E
              / \       \
-            D   E       F
+            C   D       F
     '''
 
     d = TNode('D',None,None)
